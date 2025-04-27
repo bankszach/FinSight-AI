@@ -1,0 +1,114 @@
+categories:
+  dining:
+    keywords:
+    - DOORDASH
+    - SUBWAY
+    - CHICK-FIL
+    - RESTAURANT
+    - TST*
+    - VALLARTA
+    - JACK IN THE BOX
+    - BOSA ISLAND
+    - MCDONALD'S
+    - DENNY'S
+    - PEGGY SUES DIME
+    - SHOWROOM SNACK BAR
+    - CRACKER BARREL
+    - BOOTLEGGER BISTRO
+    - SWINGERS
+    - SONIC
+    - EXTRAORDINARY DESSERTS
+    - YOGURT FARM
+    - OB NOODLE HOUSE BAR
+    - BOSA
+  groceries:
+    keywords:
+    - INSTACART
+    - H MART
+    - WALMART
+    - TARGET
+    - MR GS
+    - CVS/PHARMACY
+    - CVS
+    - PHARMACY
+  subscriptions:
+    keywords:
+    - APPLE
+    - NETFLIX
+    - HULU
+    - TICKETMASTER
+    - TICKTWEB
+    - APPLE.COM
+  shopping:
+    keywords:
+    - SHEIN
+    - ULTA BEAUTY
+    - HOT TOPIC
+    - TILLY'S
+    - BURLINGTON
+    - MARSHALLS
+    - TRUE RELIGION
+    - HOBBY LOBBY
+    - GIRL SCOUTS
+    - OUTDOOR
+    - VANMAN SHOP
+  entertainment:
+    keywords:
+    - REGAL CINEMAS
+    - OCEAN BEACH BOOKS & MUSI
+    - CLOSET
+    - AIRGARAGE.COM
+    - MANDALAY KIOSK
+    - MAHANA SPA
+    - HOB CLUB LAS VEGAS
+    - SPHERE CONCESSIONS
+  medical:
+    keywords:
+    - ORTHODONTICS UNLIMITED
+    - KAISER PERMANENTE
+    - UCSD SBO MYCHART
+  transportation:
+    keywords:
+    - CIRCLE K
+    - EXXON
+    - SHELL
+    - GEICO
+    - KENS AUTO
+    - ARCO
+    - LOVE'S TRAVEL STOPS
+    - GOLDEN ACORN TRAVEL CENT
+    - VALVOLINE
+    - THE TOLLROADS
+    - CITY OF SAN DIEGO PARKING
+    - CHEVRON
+    - CIRCLE
+  services:
+    keywords:
+    - DOORDASH
+    - UPS
+    - FLOWER SHOP NETWORK
+    - ARCS SALON HARBOR DRIVE
+    - SALONCENTRIC
+  credit_card:
+    keywords:
+    - USAA CREDIT CARD
+    - INTEREST ON PURCHASES
+    - CREDIT CARD
+    - USAA
+  travel:
+    keywords:
+    - HOLIDAY INN
+    - HOTEL
+    - MOTEL
+    - AIRBNB
+    - TRAVEL
+    - VACATION
+  utilities:
+    keywords:
+    - SPECTRUM
+    - GOOGLE *FI
+    - GOOGLE *YOUTUBE
+date_range:
+  end: '2025-04-30'
+  start: '2025-01-01'
+large_charge_threshold: 300
